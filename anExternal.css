@@ -1,0 +1,48 @@
+	#p1{
+		font-family: "Comic Sans MS", cursive, sans-serif;
+		
+		
+	}
+	
+	#p2{
+		font-family: "Times New Roman", Times, serif;	
+		
+	}
+	
+	
+	#image1, #image2 {
+		height: auto; 
+		width: auto; 
+		max-width: 50px; 
+		max-height: 50px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	
+	.container {
+		position: relative;
+		text-align: center;
+		font-size: 50px;
+		color: white;
+		margin: 20px;
+	}
+
+	.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	}
+	
+	p4{
+		border-style: dotted;
+		float: right;
+		font-size: 100px;
+	}
+	
+	#image3{
+		border-radius: 25px;
+	}
+	
